@@ -1838,3 +1838,5 @@ tokyogenso
 Émile Bernard,cityscape,mythological painting
 Émile Gallé,école de nancy,art nouveau
 Étienne-Louis Boullée,schoolteacher
+Jane Ng
+Olly Moss
